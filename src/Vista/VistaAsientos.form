@@ -78,39 +78,39 @@
                       <Group type="102" attributes="0">
                           <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="1" attributes="0">
-                              <Component id="btn6" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn1" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn11" alignment="1" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn16" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnB1" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnA1" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnC1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnD1" alignment="1" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
                       <Group type="102" attributes="0">
                           <EmptySpace max="32767" attributes="0"/>
-                          <Component id="btn21" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnE1" min="-2" max="-2" attributes="0"/>
                       </Group>
                   </Group>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" alignment="0" attributes="0">
                           <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="1" attributes="0">
-                              <Component id="btn7" alignment="1" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn2" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnB2" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnA2" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="102" alignment="1" attributes="0">
                                   <EmptySpace pref="17" max="32767" attributes="0"/>
                                   <Group type="103" groupAlignment="0" max="-2" attributes="0">
                                       <Group type="102" attributes="0">
-                                          <Component id="btn8" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnB3" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace max="32767" attributes="0"/>
-                                          <Component id="btn10" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnB5" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                       <Group type="102" attributes="0">
-                                          <Component id="btn3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnA3" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
-                                          <Component id="btn4" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnA4" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
-                                          <Component id="btn5" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnA5" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                               </Group>
@@ -118,14 +118,14 @@
                                   <EmptySpace min="-2" pref="106" max="-2" attributes="0"/>
                                   <Group type="103" groupAlignment="0" attributes="0">
                                       <Group type="102" attributes="0">
-                                          <Component id="btn14" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnC4" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace max="32767" attributes="0"/>
-                                          <Component id="btn15" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnC5" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                       <Group type="102" attributes="0">
-                                          <Component id="btn19" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnD4" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace max="32767" attributes="0"/>
-                                          <Component id="btn20" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnD5" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                               </Group>
@@ -133,32 +133,32 @@
                       </Group>
                       <Group type="102" alignment="0" attributes="0">
                           <EmptySpace max="32767" attributes="0"/>
-                          <Component id="btn25" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnE5" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <Group type="102" alignment="1" attributes="0">
                           <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                           <Group type="103" groupAlignment="0" max="-2" attributes="0">
                               <Group type="102" alignment="1" attributes="0">
                                   <Group type="103" groupAlignment="0" attributes="0">
-                                      <Component id="btn17" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnD2" min="-2" max="-2" attributes="0"/>
                                       <Group type="102" attributes="0">
-                                          <Component id="btn12" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnC2" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
-                                          <Component id="btn13" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnC3" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                                   <EmptySpace min="32" pref="32" max="-2" attributes="0"/>
-                                  <Component id="btn9" min="-2" max="-2" attributes="0"/>
+                                  <Component id="btnB4" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="1" attributes="0">
-                                  <Component id="btn23" min="-2" max="-2" attributes="0"/>
+                                  <Component id="btnE2" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace max="32767" attributes="0"/>
                                   <Group type="103" groupAlignment="0" attributes="0">
-                                      <Component id="btn18" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnD3" min="-2" max="-2" attributes="0"/>
                                       <Group type="102" attributes="0">
-                                          <Component id="btn22" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnE3" min="-2" max="-2" attributes="0"/>
                                           <EmptySpace min="32" pref="32" max="-2" attributes="0"/>
-                                          <Component id="btn24" min="-2" max="-2" attributes="0"/>
+                                          <Component id="btnE4" min="-2" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                               </Group>
@@ -175,50 +175,58 @@
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Component id="btn3" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn4" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn5" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn1" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn2" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnA3" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnA4" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnA5" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnA1" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnA2" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="1" attributes="0">
-                      <Component id="btn8" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn6" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn7" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn9" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn10" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnB3" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnB1" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnB2" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnB4" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnB5" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="1" attributes="0">
                       <Group type="102" attributes="0">
-                          <Group type="103" groupAlignment="1" attributes="0">
-                              <Component id="btn13" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn11" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn12" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn14" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="btnC3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnC1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnC2" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+                                  <Component id="btnC4" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                              </Group>
                           </Group>
-                          <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="1" attributes="0">
-                              <Component id="btn16" alignment="1" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn17" alignment="1" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn18" alignment="1" min="-2" max="-2" attributes="0"/>
-                              <Component id="btn19" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnD1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnD2" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnD3" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnD4" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
                       <Group type="102" attributes="0">
-                          <Component id="btn15" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnC5" min="-2" max="-2" attributes="0"/>
                           <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
-                          <Component id="btn20" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnD5" min="-2" max="-2" attributes="0"/>
                       </Group>
                   </Group>
                   <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="1" attributes="0">
-                      <Component id="btn22" alignment="1" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn23" alignment="1" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn24" alignment="1" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn25" alignment="1" min="-2" max="-2" attributes="0"/>
-                      <Component id="btn21" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnE3" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnE2" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnE4" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnE5" alignment="1" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnE1" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace pref="154" max="32767" attributes="0"/>
               </Group>
@@ -226,7 +234,7 @@
         </DimensionLayout>
       </Layout>
       <SubComponents>
-        <Component class="java.awt.Button" name="btn1">
+        <Component class="java.awt.Button" name="btnA1">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -234,7 +242,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn17">
+        <Component class="java.awt.Button" name="btnD2">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -242,7 +250,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn3">
+        <Component class="java.awt.Button" name="btnA3">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -250,7 +258,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn4">
+        <Component class="java.awt.Button" name="btnA4">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -258,7 +266,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn5">
+        <Component class="java.awt.Button" name="btnA5">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -266,7 +274,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn10">
+        <Component class="java.awt.Button" name="btnB5">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -274,7 +282,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn14">
+        <Component class="java.awt.Button" name="btnC4">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -282,7 +290,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn8">
+        <Component class="java.awt.Button" name="btnB3">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -290,7 +298,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn2">
+        <Component class="java.awt.Button" name="btnA2">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -298,7 +306,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn6">
+        <Component class="java.awt.Button" name="btnB1">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -306,7 +314,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn15">
+        <Component class="java.awt.Button" name="btnC5">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -314,7 +322,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn9">
+        <Component class="java.awt.Button" name="btnB4">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -322,7 +330,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn18">
+        <Component class="java.awt.Button" name="btnD3">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -330,7 +338,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn12">
+        <Component class="java.awt.Button" name="btnC2">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -338,7 +346,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn11">
+        <Component class="java.awt.Button" name="btnC1">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -346,7 +354,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn20">
+        <Component class="java.awt.Button" name="btnD5">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -354,7 +362,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn19">
+        <Component class="java.awt.Button" name="btnD4">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -362,7 +370,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn13">
+        <Component class="java.awt.Button" name="btnC3">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -370,7 +378,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn7">
+        <Component class="java.awt.Button" name="btnB2">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -378,7 +386,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn16">
+        <Component class="java.awt.Button" name="btnD1">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -386,7 +394,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn25">
+        <Component class="java.awt.Button" name="btnE5">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -394,7 +402,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn24">
+        <Component class="java.awt.Button" name="btnE4">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -402,7 +410,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn23">
+        <Component class="java.awt.Button" name="btnE2">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -410,7 +418,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn22">
+        <Component class="java.awt.Button" name="btnE3">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
@@ -418,7 +426,7 @@
             <Property name="label" type="java.lang.String" value="button1"/>
           </Properties>
         </Component>
-        <Component class="java.awt.Button" name="btn21">
+        <Component class="java.awt.Button" name="btnE1">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="99" green="ff" red="99" type="rgb"/>
