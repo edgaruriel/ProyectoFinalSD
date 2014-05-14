@@ -1,0 +1,14 @@
+<div class="jumbotron">
+<% @reservations.each do |reservation| %>
+  <div class="row">
+    <%= reservation.seat.row %>
+    <%= reservation.seat.number %>
+    <%= link_to 'Destroy seat', reservation, method: :delete %>
+
+  </div>
+<% end %>
+<h2>Tu numero de reservation es: <%= @reservations.first.number %></h2>
+<h3>para ver tu reservacion entra a /reservations/<%= @reservations.first.number %></h3>
+</div>
+<%= link_to 'Hacer otra reservacion', edit_seat_path(Seat.first) %>
+<%#= link_to 'Destroy reservaiton', @reservations.first, method: :delete %>

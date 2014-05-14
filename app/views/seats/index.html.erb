@@ -1,0 +1,5 @@
+<% @seats.each do |seat| %>
+  <%= seat.row %> - <%= seat.number %>
+<% end %>
+
+<%= link_to 'reservar', edit_seat_path(@seats.first) %>
