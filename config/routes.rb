@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   root 'seats#index'
   resources :seats
   resources :reservations
+  post 'search', to: 'reservations#search', as: 'search'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

@@ -1,5 +1,14 @@
-<% @seats.each do |seat| %>
-  <%= seat.row %> - <%= seat.number %>
-<% end %>
+<div class="jumbotron">
+  <h1>
+    Quedan <%= @seats.where(reserved: 0, prereserved:0).count %> Asientos disponibles
+  </h1>
 
-<%= link_to 'reservar', edit_seat_path(@seats.first) %>
+  <%= link_to 'HACER UNA RESERVACIÓN', edit_seat_path(@seats.first), class:'btn btn-primary center-block' %>
+  <br>
+  <br>
+  <%= form_for Reservation.new, url: search_path do |f| %>
+    <%= f.label 'Número de reservación' %>
+    <%= text_field_tag 'reservacion' %>
+    <%= f.submit 'Buscar', class:'btn btn-info' %>
+  <% end %>
+</div>

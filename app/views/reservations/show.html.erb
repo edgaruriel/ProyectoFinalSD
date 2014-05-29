@@ -1,14 +1,20 @@
 <div class="jumbotron">
+<h3>
+  En la reservación están los asientos:
+</h3>
 <% @reservations.each do |reservation| %>
   <div class="row">
-    <%= reservation.seat.row %>
-    <%= reservation.seat.number %>
-    <%= link_to 'Destroy seat', reservation, method: :delete %>
+    <h2>
+      <%= reservation.seat.row %>
+      <%= reservation.seat.number %>
+      <%= link_to 'Eliminar de la reservación', reservation, method: :delete, class:'btn btn-danger' %>
+    </h2>
 
   </div>
 <% end %>
-<h2>Tu numero de reservation es: <%= @reservations.first.number %></h2>
-<h3>para ver tu reservacion entra a /reservations/<%= @reservations.first.number %></h3>
+<h2>Tu numero de reservación es: <%= @reservations.first.number %></h2>
+<h3>para ver tu reservacion entra a <%= link_to '/reservations/' + @reservations.first.number.to_s, '#' %></h3>
+<br>
+<%= link_to 'Hacer otra reservacion', edit_seat_path(Seat.first), class:'btn btn-info' %>
 </div>
-<%= link_to 'Hacer otra reservacion', edit_seat_path(Seat.first) %>
 <%#= link_to 'Destroy reservaiton', @reservations.first, method: :delete %>

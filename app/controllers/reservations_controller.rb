@@ -31,6 +31,9 @@ class ReservationsController < ApplicationController
     redirect_to reservation_path(id: reservation.number)
   end
 
+  def search
+    redirect_to reservation_path(params[:reservacion])
+  end
   private
   def reservation_params
     params.require(:reservation).permit(:seat_id, :user_id, :ip)

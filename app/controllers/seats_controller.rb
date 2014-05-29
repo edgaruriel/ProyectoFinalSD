@@ -1,5 +1,5 @@
 class SeatsController < ApplicationController
-  # enable_sync only: [:create, :edit, :update, :destroy]
+
   def index
     @seats = Seat.all
   end
@@ -49,7 +49,7 @@ class SeatsController < ApplicationController
       end
     end
 
-    private
+    # private
     # def assign
     #   @ip
     #

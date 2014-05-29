@@ -19,7 +19,7 @@ class Seat < ActiveRecord::Base
       return 'success'# 'green'
     elsif prereserved
       if is_prereserved_by(ip)
-        return '' # 'black'
+        return 'black' # 'black'
       else
         return 'primary'# 'blue'
       end
